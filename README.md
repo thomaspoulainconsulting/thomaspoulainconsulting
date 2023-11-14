@@ -1,6 +1,7 @@
 ### Thomas Poulain 🐴
 I'm a freelance senior android developer.<br>
-I like to put my passion and my skills at the service of my clients and end users.
+I like to put my passion and my skills at the service of my clients and end users.<br>
+You can contact me on [LinkedIn](https://www.linkedin.com/in/thomas-poulain-%F0%9F%90%B4-69860291/).
 
 ### What interests me in my daily life
   🧘‍♂️ Deploy new features regularly and with confidence<br>
