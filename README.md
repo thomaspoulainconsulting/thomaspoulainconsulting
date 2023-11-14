@@ -1,16 +1,16 @@
-### Hi there 👋
+### Thomas Poulain 🐴
+I'm a freelance senior android developer.<br>
+I like to put my passion and my skills at the service of my clients and end users.
 
-<!--
-**thomaspoulainconsulting/thomaspoulainconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What interests me in my daily life
+  🧘‍♂️ Deploy new features regularly and with confidence<br>
+  🎯 Have a strong impact for my users<br>
+  🧠 Learn every day through tech monitoring, personal projects and conferences<br>
+  📚 Share my knowledge around me and on the internet<br>
 
-Here are some ideas to get you started:
+### Playfield 🌱 
+I’m currently playing with Kotlin/Compose Multiplateform 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I'm proud of (1.8M total downloads) 🔭 
+[Slide'n Escape](https://github.com/thomaspoulainconsulting/Slide-n-Escape), 
+[Ludexo](https://github.com/thomaspoulainconsulting/Ludexo), BlindTest (soon to be disclosed)
